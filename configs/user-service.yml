@@ -1,0 +1,11 @@
+server:
+  port: 8075
+
+user:
+  message: "Welcome to CUMS fmis related Test APIs "
+  contactDetails:
+    name: "LIVTIN"
+    email: "livtin@hotmail.com"
+  onCallSupport:
+    - (855) 92-205520
+    - (855) 15-205520
